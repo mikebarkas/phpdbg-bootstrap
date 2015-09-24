@@ -1,1 +1,1 @@
-### PHPDBG Bootstrap Drupal
+### PHPDBG Bootstrap
