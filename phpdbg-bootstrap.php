@@ -10,7 +10,7 @@
  */
 if (!defined('PHPDBG_BOOTSTRAPPED')) {
     /* define these once */
-    define("PHPDBG_BOOTPATH", "/opt/php-zts/htdocs");
+    define("PHPDBG_BOOTPATH", getcwd());
     define("PHPDBG_BOOTSTRAP", "index.php");
     define("PHPDBG_BOOTSTRAPPED", sprintf("/%s", PHPDBG_BOOTSTRAP)); 
 }
