@@ -57,4 +57,5 @@ $_REQUEST = array();
 $_POST = array();
 $_COOKIE = array();
 $_FILES = array();
+
 chdir(PHPDBG_BOOTPATH);
